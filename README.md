@@ -30,6 +30,3 @@ Este repositório pode conter código e recursos relacionados ao curso. Você po
 
 Se você gostaria de contribuir com exemplos, melhorias ou correções relacionadas ao curso, sinta-se à vontade para enviar uma solicitação de pull.
 
-## Licença
-
-Este repositório é disponibilizado sob a [Licença MIT](LICENSE).
