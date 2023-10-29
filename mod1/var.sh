@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
+NOME="Joao Xavier"
 
-NOME= "JoAo X"
+echo $NOME
